@@ -7,6 +7,9 @@ Este archivo es para practicar el trabajo colaborativo con Git y branches. Cada 
 Los tacos de tripa son lo mejor que existe
 
 
+No, lo mejor que existe son los tacos al pastor. Estás demente
+
+
 1. **Elegir UNA sección** (Estudiante 1, Estudiante 2, etc.)
 2. **Crear una rama `develop`** para trabajar
 3. **Editar SOLO su sección asignada**
