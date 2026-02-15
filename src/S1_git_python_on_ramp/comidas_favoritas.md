@@ -19,14 +19,14 @@ Los tacos de tripa son lo mejor que existe
 
 ##  Estudiante 1
 
-**Nombre completo:** _[Escribe tu nombre aquí]_
+**Nombre completo:** _[Alejandra Bermúdez Pineda]_
 
-**Comida favorita:** _[Tu comida favorita]_
+**Comida favorita:** _[Enchiladas verdes]_
 
-**Comida que menos te gusta:** _[La comida que menos te gusta]_
+**Comida que menos te gusta:** _[Pimientos]_
 
 **Por qué te gusta tu comida favorita:**
-_[Opcional: explica por qué te gusta]_
+_[La combinación de tortillita frita y la salsa verde son una experiencia etérea]_
 
 ---
 
