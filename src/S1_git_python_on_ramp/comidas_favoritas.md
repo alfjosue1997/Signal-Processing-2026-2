@@ -76,7 +76,7 @@ _[Opcional: explica por qué te gusta]_
 
 **Nombre completo:** _[Miguel_Angel_López_González]_
 
-**Comida favorita:** _[picaña]_
+**Comida favorita:** _[picaña_y_tapicoca]_
 
 **Comida que menos te gusta:** _[mayonesa]_
 
